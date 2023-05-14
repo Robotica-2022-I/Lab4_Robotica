@@ -31,14 +31,20 @@ El Pincher debe moverse y tomar los siguientes ángulos, desde el cero de la con
 |4|0| 20|-30| 17| 45|
 |5|0|  0|  0|  0|  0|
 
-Las posiciones del pincher se simularon en matlab para ver que posición deberia esperarse del brazo. Además se realizaron los pasos dados en el repositorio https://github.com/fegonzalez7/rob_unal_clase3, para descargar y conectar Dynamixel Workbench en el PC. Con esto se determianron los límites articulares del pincher y se fotografió en las mismas posiciones dadas. La comparación de ambos pasos se presenta a continuación:
+Las posiciones del pincher se simularon en matlab para ver que posición deberia esperarse del brazo. Además se realizaron los pasos dados en el repositorio https://github.com/fegonzalez7/rob_unal_clase3, para descargar y conectar Dynamixel Workbench en el PC. Con esto se determinaron los límites articulares del pincher y se fotografió en las mismas posiciones. La comparación de ambos pasos se presenta a continuación:
 ![Imagen 1](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P1.png)
 ![Imagen 2](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P2.png)
 ![Imagen 3](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P3.png)
 ![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P4.png)
 ![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P5.png)
 
-
+Además, se tiene la tabla correspondiente al DH del robot:
+| j |     theta |         d |         a |     alpha |    offset |
+|:-:|:---------:|:---------:|:---------:|:---------:|:---------:|
+|  1|         q1|       14.5|          0|      1.571|          0|
+|  2|         q2|          0|       10.7|          0|      1.571|
+|  3|         q3|          0|       10.7|          0|          0|
+|  4|         q4|          0|          0|          0|          0|
 
 # 3)HMI en Python
 Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paquete tkinter. Dicha HMI es capaz de inicializar ROS además se buscó que fuese capaz de ubicar el brazo según las posiciones iniciales, agregarle una posición esperada y mostrar la posición actual del pincher.
