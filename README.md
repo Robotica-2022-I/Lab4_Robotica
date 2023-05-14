@@ -48,7 +48,7 @@ Además, se tiene la tabla correspondiente al DH del robot:
 
 # 3)HMI en Python
 Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paquete tkinter. 
-Dicha HMI es capaz de ubicar el brazo en distintas posiciones articulares, en el primer frame de la parte superior se evidencia nla información personal de los autores del laboratorio y el logo de la Universidad Nacional de Colombia.
+Dicha HMI es capaz de ubicar el brazo en distintas posiciones articulares, en el primer frame de la parte superior se evidencia la información personal de los autores del laboratorio y el logo de la Universidad Nacional de Colombia.
 
 El segundo frame envía las distintas configuraciones articulares al Phantom X, a la izquierda se puede seleccionar una de las 5 posiciones iniciales estipuladas en el laboratorio y cuenta con el botón de enviar a la derecha para enviar la instrucción, en la parte de la derecha se puede poner numericamente el valor de cada articulación en grados y enviar esta configuración especifica con su respectivo botón de acción, finalmente en la parte derecha se actualiza la visualización de la imágen correspondiente a la posición articular seleccionada en la izquierda.
 
