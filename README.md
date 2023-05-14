@@ -32,11 +32,11 @@ El Pincher debe moverse y tomar los siguientes ángulos, desde el cero de la con
 |5|0|  0|  0|  0|  0|
 
 Las posiciones del pincher se simularon en matlab para ver que posición deberia esperarse del brazo. Además se realizaron los pasos dados en el repositorio https://github.com/fegonzalez7/rob_unal_clase3, para descargar y conectar Dynamixel Workbench en el PC. Con esto se determianron los límites articulares del pincher y se fotografió en las mismas posiciones dadas. La comparación de ambos pasos se presenta a continuación:
-![Imagen 1](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion1.jpeg)
-![Imagen 2](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion2.jpeg)
-![Imagen 3](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion3.jpeg)
-![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4.jpeg)
-![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/posición5.jpeg)
+![Imagen 1](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P1.png)
+![Imagen 2](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P2.png)
+![Imagen 3](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P3.png)
+![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P4.png)
+![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Comparación_P5.png)
 
 
 
