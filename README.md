@@ -47,13 +47,11 @@ Además, se tiene la tabla correspondiente al DH del robot:
 |  4|         q4|          0|          0|          0|          0|
 
 # 3)HMI en Python
-Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paquete tkinter. Dicha HMI es capaz de inicializar ROS además se buscó que fuese capaz de ubicar el brazo según las posiciones iniciales, agregarle una posición esperada y mostrar la posición actual del pincher.
-   El procedimiento de su funcionamiento es el siguiente:
+Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paquete tkinter. Dicha HMI es capaz de inicializar ROS además se buscó que fuese capaz de ubicar el brazo según las posiciones iniciales, agregarle una posición esperada y mostrar la posición actual del pincher.El archivo "HMI.py" se encuentra adjunto en este repositorio. El procedimiento de su funcionamiento es el siguiente:
    - Inicializar ROS
    - La HMI genera el nodo necesario
    - El usuario debe darle la posición al brazo, sea de las 5 iniciales o escribir otra posición deseada.
 
-  
 Se tomó como base los archivos presentes en el paquete de Dynamixel "jointPub.py", "jointSub.py" y "jointSrv.py"  y el archivo "basic.yalm" se modificó, para agregar 4 joints mas.
 
 
