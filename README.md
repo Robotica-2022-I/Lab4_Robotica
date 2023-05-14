@@ -55,7 +55,7 @@ Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paq
    - El usuario debe darle la posición al brazo, sea de las 5 iniciales o escribir otra posición deseada.
 
   
-Se tomó como base los archivos presentes en el paquete de Dynamixel >jointPub.py, >jointSub.py y >joint  para el movimiento como tal del brazo.   
+Se tomó como base los archivos presentes en el paquete de Dynamixel "jointPub.py", "jointSub.py" y "jointSrv.py"  para el movimiento como tal del brazo.   
 
 
 # 4)Video de implementación
