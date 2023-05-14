@@ -50,6 +50,6 @@ Una vez simuladas las posiciones en Matlab, se realizaron los pasos dados en el 
 # )HMI y Python
 
 # )Video de implementación
-
+  [![Alt text](https://img.youtube.com/vi/uRHSwcJ6vfw/0.jpg)](https://www.youtube.com/watch?v=uRHSwcJ6vfw)
 
 
