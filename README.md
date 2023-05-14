@@ -31,3 +31,5 @@ El Pincher debe moverse y tomar los siguientes ángulos, desde el cero de la con
 |4|0| 20|-30| 17| 45|
 |5|0|  0|  0|  0|  0|
 
+Las posiciones en el pincker son las siguientes:
+
