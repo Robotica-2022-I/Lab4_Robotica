@@ -31,14 +31,19 @@ El Pincher debe moverse y tomar los siguientes ángulos, desde el cero de la con
 |4|0| 20|-30| 17| 45|
 |5|0|  0|  0|  0|  0|
 
-Las posiciones del pincher se tomaron em matlab, y 
-Las posiciones en el pincker son las siguientes:
+Las posiciones del pincher se tomaron em matlab para ver que posición deberia esperarse del brazo:
+![Imagen 1](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición1_matlab.png)
+![Imagen 2](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición2_matlab.png)
+![Imagen 3](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición3_matlab.png)
+![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4_matlab.png)
+![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición5_matlab.png)
 
-![Imagen 1](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion1.jpeg) 
-![Imagen 2](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion2.jpeg)
-![Imagen 3](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion3.jpeg)
-![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4.jpeg)
-![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/posición5.jpeg)
+}Además se fotografió al pincher, donde efectivamente coinciden con la simulación en Matlab:
+![Imagen 6](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion1.jpeg) 
+![Imagen 7](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion2.jpeg)
+![Imagen 8](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion3.jpeg)
+![Imagen 9](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4.jpeg)
+![Imagen 10](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/posición5.jpeg)
 
 
 
