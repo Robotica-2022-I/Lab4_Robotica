@@ -38,7 +38,7 @@ Las posiciones del pincher se tomaron em matlab para ver que posición deberia e
 ![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4_matlab.png)
 ![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición5_matlab.png)
 
-}Además se fotografió al pincher, donde efectivamente coinciden con la simulación en Matlab:
+Una vez simuladas las posiciones en Matlab, se realizaron los pasos dados en el repositorio https://github.com/fegonzalez7/rob_unal_clase3, para descargar y contectar Dynamixel Workbench en el PC.Con esto se determianron los límites articulares del pincher y se fotografió en las mismas posiciones dadas, como se ve a continuación:
 ![Imagen 6](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion1.jpeg) 
 ![Imagen 7](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion2.jpeg)
 ![Imagen 8](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion3.jpeg)
