@@ -47,7 +47,7 @@ Una vez simuladas las posiciones en Matlab, se realizaron los pasos dados en el 
 
 
 
-# )HMI y Python
+# 3)HMI y Python
 Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paquete tkinter. Dicha HMI es capaz de inicializar ROS además se buscó que fuese capaz de ubicar el brazo según las posiciones iniciales, agregarle una posición esperada y mostrar la posición actual del pincher.
    El procedimiento de su funcionamiento es el siguiente:
    - Inicializar ROS
@@ -58,7 +58,7 @@ Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paq
 Se tomó como base los archivos presentes en el paquete de Dynamixel >jointPub.py, >jointSub.py y >joint  para el movimiento como tal del brazo.   
 
 
-# )Video de implementación
+# 4)Video de implementación
 A continuación se presenta el video de la implementación del laboratorio:
 
 
