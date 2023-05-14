@@ -10,7 +10,7 @@ David Leonardo Cocoma Reyes
 
 # 1) Requisitos
 Para el desarrollo de esta práctica del laboratorio,se necesita lo siguiente:
-  - Ubuntu versi´on 20.xx preferible 20.04 LTS con ROS.
+  - Ubuntu versión 20.xx preferible 20.04 LTS con ROS.
   - Espacio de trabajo para catkin correctamente configurado.
   - Paquetes de Dynamixel Workbench. 
   - Paquete del robot Phantom X.
@@ -31,19 +31,12 @@ El Pincher debe moverse y tomar los siguientes ángulos, desde el cero de la con
 |4|0| 20|-30| 17| 45|
 |5|0|  0|  0|  0|  0|
 
-Las posiciones del pincher se tomaron em matlab para ver que posición deberia esperarse del brazo:
-![Imagen 1](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición1_matlab.png)
-![Imagen 2](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición2_matlab.png)
-![Imagen 3](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición3_matlab.png)
-![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4_matlab.png)
-![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición5_matlab.png)
-
-Una vez simuladas las posiciones en Matlab, se realizaron los pasos dados en el repositorio https://github.com/fegonzalez7/rob_unal_clase3, para descargar y contectar Dynamixel Workbench en el PC.Con esto se determianron los límites articulares del pincher y se fotografió en las mismas posiciones dadas, como se ve a continuación:
-![Imagen 6 ](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion1.jpeg)
-![Imagen 7](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion2.jpeg)
-![Imagen 8](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion3.jpeg)
-![Imagen 9](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4.jpeg)
-![Imagen 10](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/posición5.jpeg)
+Las posiciones del pincher se simularon en matlab para ver que posición deberia esperarse del brazo. Además se realizaron los pasos dados en el repositorio https://github.com/fegonzalez7/rob_unal_clase3, para descargar y conectar Dynamixel Workbench en el PC. Con esto se determianron los límites articulares del pincher y se fotografió en las mismas posiciones dadas. La comparación de ambos pasos se presenta a continuación:
+![Imagen 1](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion1.jpeg)
+![Imagen 2](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion2.jpeg)
+![Imagen 3](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posicion3.jpeg)
+![Imagen 4](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/Posición4.jpeg)
+![Imagen 5](https://github.com/Robotica-2022-I/Lab4_Robotica/blob/main/Imagenes/posición5.jpeg)
 
 
 
