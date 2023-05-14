@@ -60,6 +60,8 @@ Se tomó como base los archivos presentes en el paquete de Dynamixel >jointPub.p
 
 # )Video de implementación
 A continuación se presenta el video de la implementación del laboratorio:
+
+
   [![Alt text](https://img.youtube.com/vi/uRHSwcJ6vfw/0.jpg)](https://www.youtube.com/watch?v=uRHSwcJ6vfw)
 
 
