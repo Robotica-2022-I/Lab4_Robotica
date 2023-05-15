@@ -46,7 +46,7 @@ Además, se tiene la tabla correspondiente al DH del robot:
 |  3|         q3|          0|       10.7|          0|          0|
 |  4|         q4|          0|          0|          0|          0|
 
-# 3)HMI en Python
+# 3) HMI en Python
 Para lograr el desarrollo del laboratorio, se realizó una HMI, empleando el paquete tkinter. 
 Dicha HMI es capaz de ubicar el brazo en distintas posiciones articulares, en el primer frame de la parte superior se evidencia la información personal de los autores del laboratorio y el logo de la Universidad Nacional de Colombia.
 
@@ -64,7 +64,7 @@ El archivo "HMI.py" se encuentra adjunto en este repositorio. El procedimiento d
 Se tomó como base los archivos presentes en el paquete de Dynamixel "jointPub.py", "jointSub.py" y "jointSrv.py"  y el archivo "basic.yalm" se modificó, para agregar los 4 joints faltantes.
 
 
-# 4)Video de implementación
+# 4) Video de implementación
 A continuación se presenta el video donde se evidencia el funcionamiento de la interfaz gráfica y el movimiento del brazo.
 
 
