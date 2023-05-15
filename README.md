@@ -65,7 +65,7 @@ Se tomó como base los archivos presentes en el paquete de Dynamixel "jointPub.p
 
 
 # 4)Video de implementación
-A continuación se presenta el video de la implementación del laboratorio:
+A continuación se presenta el video donde se evidencia el funcionamiento de la interfaz gráfica y el movimiento del brazo.
 
 
   [![Alt text](https://img.youtube.com/vi/uRHSwcJ6vfw/0.jpg)](https://www.youtube.com/watch?v=uRHSwcJ6vfw)
